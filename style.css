@@ -1,0 +1,49 @@
+* {
+    background-image: url(https://images.alphacoders.com/106/1069116.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    color: white ;
+    background-blend-mode: multiply;
+}
+.Text {
+    font-size: xxx-large; 
+    font-style: normal;
+    font-weight:bolder;
+    color: greenyellow; 
+    font-family: 'Courier New', Courier, monospace; 
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    background-color: black;
+}
+.Text1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    position: absolute;
+    right: 43%;
+    top: 70%;
+    font-size: xx-large;
+    background-color: black;
+}
+.MyPhoto {
+    position: absolute;
+    left: 0%;
+    top: 92%;
+    height: 50px;
+}
+.MetacriticLogo {
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    height: 100px;
+}
+.IMDbLogo {
+    position: absolute;
+    right: 13%;
+    top: 0%;
+    height: 100px;
+}
